@@ -1,6 +1,6 @@
 # Dog breed project
 
-A group project where we created a web app that helps you learn more about dog breeds.
+This is a group project where we created a web app that helps you learn more about dog breeds.
 
 ## Features
 
@@ -14,7 +14,7 @@ A group project where we created a web app that helps you learn more about dog b
 
 ## Technologies
 
-This app is built with [React](https://reactjs.org) & [Redux](https://redux.js.org). The data is fetched from the [Dog API](https://dog.ceo/dog-api/documentation/).
+This app is built with [React](https://reactjs.org) & [Redux](https://redux.js.org). Data is fetched from the [Dog API](https://dog.ceo/dog-api/documentation/).
 
 ## Installation
 
